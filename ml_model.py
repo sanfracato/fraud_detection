@@ -10,3 +10,8 @@ def model2():
 
 def model3():
     print("3")
+
+
+
+print("model 2 is performing the est")
+
